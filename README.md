@@ -11,26 +11,26 @@
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-Congratulatons! Your applicatons for the data scientst and data analyst positons has been chosen!
-A couple of signatures on the contracts and you are ofcially hired by this well-known retail company.
-Now the marketng chief ofcer is giving you “The speech”:
-«As a company conscious of the fast business evoluton of our tmes, we do understand the need to stay
-updated». «We cannot ignore the newest approaches and technological advantages», he contnues «and
-we must aim for a drastc change of the entre team mind-set». «We want our every-day marketng be
+Congratulatons! Your applicatons for the data scientst and data analyst positions has been chosen!
+A couple of signatures on the contracts and you are officially hired by this well-known retail company.
+Now the marketing chief officer is giving you “The speech”:
+«As a company conscious of the fast business evoluton of our times, we do understand the need to stay
+updated». «We cannot ignore the newest approaches and technological advantages», he continues «and
+we must aim for a drastic change of the entire team mind-set». «We want our every-day marketing be
 data-driven». «You» he emphasizes «will play an important role in this scenario».
-Then, he explain concretely the task he had in mind: «I am expectng you to analyse the data available and
-make some proposal of new data-driven strategies for our digital marketng campaigns». «I am always
-thinking we need to do more to retain high-value customers» he exclaims «Yes! this is defnitely an issue
-you must address at frst. Analyse the data, wrap the results in a nice presentaton and we will discuss it
+Then, he explain concretely the task he had in mind: «I am expecting you to analyse the data available and
+make some proposal of new data-driven strategies for our digital marketing campaigns». «I am always
+thinking we need to do more to retain high-value customers» he exclaims «Yes! this is definitely an issue
+you must address at first. Analyse the data, wrap the results in a nice presentaton and we will discuss it
 with the rest of the team!».
-Before he leaves you for his next meetng, he gives the last reminder: «Just one last thing before startng to
-crunch the data.. I am expectng graphs and numbers to support your proposals, but remember to be clear
-as possible in the arguments you will be presentng. I want that the advantages of these approach will be
+Before he leaves you for his next meeting, he gives the last reminder: «Just one last thing before starting to
+crunch the data.. I am expecting graphs and numbers to support your proposals, but remember to be clear
+as possible in the arguments you will be presenting. I want that the advantages of these approach will be
 clear to everybody in the team».
-The project is actually a simulaton of a typical request:
+The project is actually a simulation of a typical request:
 - analyse the data,
-- exploit the results to defne proftable data-driven strategies,
-- present the fndings in order to persuade about their efectveness.
+- exploit the results to define profitable data-driven strategies,
+- present the findings in order to persuade about their effectiveness.
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
